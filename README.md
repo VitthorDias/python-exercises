@@ -1,0 +1,1 @@
+Exercícios feitos através das propostas do curso de python do canal Curso em Vídeo.
